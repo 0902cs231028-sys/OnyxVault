@@ -1,7 +1,11 @@
+![PHP](https://img.shields.io/badge/PHP-8.3-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Security-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Security](https://img.shields.io/badge/Encryption-AES--256--CBC-green?style=for-the-badge)
 # 🛡️ OnyxVault: Enterprise-Grade Private Note Architect
 
 A high-security, full-stack PHP vault designed with a focus on data privacy, cryptographic integrity, and modern UI/UX principles. This project demonstrates advanced implementation of the AES-256 encryption standard and secure session management.
-# 🛡️ OnyxVault: Enterprise-Grade Private Note Architect
+
 
 **🌐 Live Production Demo:** [https://shirooni.infinityfree.me/](https://shirooni.infinityfree.me/)
 
