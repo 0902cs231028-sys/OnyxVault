@@ -43,8 +43,13 @@ Unlike standard applications that store data in plain text, OnyxVault utilizes t
 ├── includes/
 │   ├── Auth.php      # Authentication Logic Class
 │   └── Cipher.php    # Encryption/Decryption Engine
-├── public/
-│   └── assets/       # Minified CSS and JS
-├── config.php        # Database Configuration (Environment Specific)
-├── dashboard.php     # Secure User Interface
-└── index.php         # Entry Point
+├── src/               # Minified CSS and JS
+     ├── terminal.js   # Javascript
+     ├── style.css     # Glasmorphism
+     ├── assets/            
+          ├── banner.png        # Main Dashboard look
+          └── avatar.jpg        # Customised profile
+     └── security_audit.json    # Security Manifest
+├── config.php         # Database Configuration (Environment Specific)
+├── dashboard.php      # Secure User Interface
+└── index.php          # Entry Point
