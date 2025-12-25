@@ -11,6 +11,8 @@
 1. Navigate to the link above.
 2. Register a new "Security Identity."
 3. Your data is encrypted locally using AES-256 before being committed to the database.
+
+
 A high-security, full-stack PHP vault designed with a focus on data privacy, cryptographic integrity, and modern UI/UX principles. This project demonstrates advanced implementation of the AES-256 encryption standard and secure session management.
 
 
