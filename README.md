@@ -53,3 +53,4 @@ Unlike standard applications that store data in plain text, OnyxVault utilizes t
 ├── config.php         # Database Configuration (Environment Specific)
 ├── dashboard.php      # Secure User Interface
 └── index.php          # Entry Point
+```
