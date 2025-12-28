@@ -1,6 +1,6 @@
 <?php
 /**
- * OnyxVault - Entry Point
+ * OnyxVaultV-2.3 - Entry Point
  */
 header("X-Frame-Options: DENY");
 header("X-Content-Type-Options: nosniff");
